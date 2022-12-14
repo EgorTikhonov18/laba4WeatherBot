@@ -4,6 +4,8 @@ import config
 import geo
 import weather_api
 
+
+
 bot = telebot.TeleBot(config.bot_key)
 global text_reading_flag
 text_reading_flag = False
