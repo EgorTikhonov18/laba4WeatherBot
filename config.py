@@ -1,6 +1,6 @@
-user_key = 'e9d276e9302fbd48a6461d956b634187'
+user_key = ' '
 
-bot_key = '5936038367:AAF6uwWQMDmUKXfa4GV-GxEqsc9UQYeNUOs'
+bot_key = ' '
 
 weather_api = 'https://api.openweathermap.org/data/2.5/weather?lat={latitude}&lon={longitude}&appid=' + user_key + '&units=metric&lang=RU'
 
